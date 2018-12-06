@@ -6,3 +6,6 @@
 
 ## abstractfactory
 抽象工厂模式
+
+## singleton
+单例模式
